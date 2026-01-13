@@ -1,0 +1,15 @@
+camelot-py[cv]
+pandas
+openpyxl
+pdfplumber
+pdf2image
+pytesseract
+python-docx
+PyPDF2
+Tk
+pdf2docx
+pdfplumber
+pandas
+PyPDF2
+python-docx
+pillow
